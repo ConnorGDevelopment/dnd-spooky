@@ -28,6 +28,22 @@ Yours Untruly,
 
 *Reaper*
 
+## Laws Surrounding Magic
+The use of magic is illegal without a license, and licenses are only given to people in professions that require the use of magic such as Arcanosmiths or Witchkillers. Having knowledge of magic is not illegal, it is not uncommon to meet people capable of magic, they are simply barred from using it.
+
+In Orbis, where crime is rampant, the use of minor magic won't necessarily cause the Witchkillers to descend upon you. Most people wouldn't be shocked by the discrete use of a cantrip. Flashy or public displays of magic are usually handled by the Police and result in fines or jail time. The Witchkillers are summoned when magic is being used in combat, to manipulate authority, or affect an individual's social standing.
+
+## Medietas
+Medietas is the perfect city, or so they say. No one actually knows a lot about this portion of the Amberfall. Laws are declared and disseminated throughout the varying districts. Occasionally, priveleged individuals send mail to denizens of Orbis. But people don't leave, no one leaves Medietas.
+
+## The Witchkillers
+The mysterious order of the Witchkillers are the highest form of authority in Orbis and the Bleaks. They wear no uniforms, they have no identities, they have no families or connections. No one knows if they are recruited or if they are trained. No one knows where in Amberfall they come from, some think they come from Medietas while others think they are people plucked from the Bleaks. 
+
+What people do know, is they are invisible yet ever present. The only credible news story involving the Witchkillers comes from the district of Frostlight. A mage there summoned a fire elemental in the middle of town while attempting to assasinate that district's Governor and family. The mage was killed almost instantly when he was struck simultaneously by five disintegrate spells. A shopkeeper reported that he was weighing produce for a pregnant mother when all of sudden she turned and fired a scarlet beam behind her prior to vanishing. A bailiff escorting a convict to their sentencing said that they watched one of the convict's hands phase through their cuffs and fire a similar scarlet beam at the mage prior to vanishing as well.
+
+## Orbissyian Morality
+The people of Orbis are in many ways depraved and cruel. Because of the harsh living conditions, citizens engage in a constant social rat race. No one would dare act uncouth in public for fear of being demoted to a district further from the center. But in a dark alley, it would not be suprising to be mugged for money, food or jewelry. It is not uncommon to hear about someone receiving a job promotion after their supervisor mysteriously disappeared.
+
 # Character Creation Guidelines
 
 ## Race Selection
@@ -274,6 +290,24 @@ For this campaign, we will be using the point buy system with the following cond
   - Ex. You could represent a -2 Strength Modifier by describing your character as gaunt and thin.
   - Ex. You could represent a +3 Intelligence Modifier by describing your character as having varicose veins on their temple.
 
+### Point Value Table
+
+| Ability Score | Cost |
+| --- | --- |
+| 6 | -4 |
+| 7 | -2 |
+| 8 | 0 |
+| 9 | 1 |
+| 10 | 2 |
+| 11 | 3 |
+| 12 | 4 |
+| 13 | 5 |
+| 14 | 7 |
+| 15 | 9 |
+| 16 | 11 |
+| 17 | 13 |
+| 18 | 15 |
+
 ## Background
 You may select any background that would be considered appropriate for the campaign setting. If you want to create your own background, you must approve it with the DM.
 
@@ -312,3 +346,22 @@ Listed below are all the potential drawbacks you may take in exchange for a boon
 - Lose half your spells known
 - Lose a feat
 
+## Experience
+Experience in this campaign will be merit based. When an objective or milestone is reached, each character will receive a baseline amount and then an additional amount based on merits they've earned. Listed below are the merit categories and an explanation of how they are earned.
+
+### Good Roleplaying
+Many of your characters are driven by vices and obsessions. Many have oaths and creeds they must abide by. Playing into these elements of your character, regardless of your intuition or knowledge as DND player, will be rewarded.
+
+### Cleverness
+This campaign will be full of mystery and intrigue. If you manage to one up the DM by using a clue against me, you will begrudgingly be rewarded.
+
+### Prowess
+When your character has a moment where they shine, it will be rewarded. This could mean they single handedly fought a room full of monsters or they charmed their way into a private party and learned key information.
+
+### Adversity
+All of your characters have significant flaws and weaknesses but that doesn't mean they shouldn't try their best. When you try do something that is just outside of your wheelhouse, you will be rewarded regardless of if it was successful.
+
+## Death
+There are ways for your character to be brought back from the dead outside of the Revivify and Resurrection spells. However, you will come back different. You might have a permanent change made to one or more of your attributes, you might have a permanent change made to one of your class features, you might not even know what changed.
+
+If you die and either don't want to come back from the dead or the party isn't able to do so, you may create a new character. If you create a new character and choose the same class as your previous character, you must choose a different subclass.
